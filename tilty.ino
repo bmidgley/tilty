@@ -50,5 +50,5 @@ void loop() {
       DigiKeyboard.print("0");
     }
   }
-  DigiKeyboard.delay(1000);
+  DigiKeyboard.delay(100);
 }
