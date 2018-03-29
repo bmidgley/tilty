@@ -2,4 +2,4 @@
 
 Create a USB tilt sensor using a digispark attiny85 and a gy-521 accelerometer.
 
-![Tilty](tilty.jpg)
+![Tilty](images/tilty.jpg)
